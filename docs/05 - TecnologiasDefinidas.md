@@ -1,0 +1,23 @@
+### Tecnologias Definidas
+
+- **Front-end**
+  - React
+  - Vite
+  - HTML5
+  - CSS3
+  - JavaScript
+- **Back-end**
+  - Python
+  - FastAPI
+- **Banco de Dados**
+  - SQLite (desenvolvimento)
+  - PostgreSQL (produção)
+- **ORM**
+  - SQLAlchemy
+- **Migração**
+  - Alembic
+- **Scanner**
+  - html5-qrcode
+- **Controle de Versão**
+  - Git
+  - GitHub
