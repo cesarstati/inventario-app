@@ -21,6 +21,9 @@ O sistema deverá permitir:
 - emitir relatórios;
 - utilizar leitor de código de barras;
 - funcionar em computadores e celulares.
+- consultar histórico de movimentações;
+- identificar produtos com estoque baixo;
+- controlar estoque mínimo.
 
 ### 3. Stakeholders
 
