@@ -29,7 +29,7 @@ O sistema deverá permitir:
 | **Administrador** | Gerencia o sistema e usuários | Total | Diário / Sempre |
 | **Estoquista** | Faz inventários e auditorias | Estoque | Semanal / Mensal |
 | **Operador** | Registra entradas e saídas de produtos | Operacional | Contínuo (Turnos) |
-| **Empresa (Gestão)** | Utiliza os relatórios estratégicos | Relatórios | Sob Demanda |
+| **Gestor** | Utiliza os relatórios estratégicos | Relatórios | Sob Demanda |
 
 
 ### 4. Requisitos Funcionais
